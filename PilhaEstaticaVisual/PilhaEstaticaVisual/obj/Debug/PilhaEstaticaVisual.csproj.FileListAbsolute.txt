@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\bin\Debug\PilhaEstaticaVisual.exe.config
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\bin\Debug\PilhaEstaticaVisual.exe
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\bin\Debug\PilhaEstaticaVisual.pdb
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.Form1.resources
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.Properties.Resources.resources
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.exe
+C:\Users\gabriel\Desktop\projetos\PilhaEstaticaVisual\PilhaEstaticaVisual\obj\Debug\PilhaEstaticaVisual.pdb
