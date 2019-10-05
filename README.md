@@ -1,4 +1,4 @@
-# estrutura_de_dados C#
+# Estrutura de dados - C#
 Vou compartilhar meus aprendizados em estrutura de dados da Faculdade aqui.
 
 ## Tela Inicial do programa Pilha Estática Visual 
