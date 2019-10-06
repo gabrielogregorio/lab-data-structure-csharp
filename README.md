@@ -1,9 +1,7 @@
 # Estrutura de dados - C#
 Vou compartilhar meus aprendizados em estrutura de dados aqui.
 
-## Tela Inicial do programa Pilha Estática Visual 
-![Tela Inicial do programa](https://github.com/gabrielogregorio/estrutura_de_dados/blob/master/PilhaEstaticaVisual/tela.png)
-### Sobre a pilha estática
+## Pilha Estática  
 
 #### Operações sobre pilhas** 
 
@@ -18,3 +16,5 @@ Vou compartilhar meus aprendizados em estrutura de dados aqui.
 **IS_EMPTY:** verifica se a pilha está "Vazia"   
 **IS_FULL:** verifica se a pilha está "cheia"   
 
+![Tela Inicial do programa](https://github.com/gabrielogregorio/estrutura_de_dados/blob/master/PilhaEstaticaVisual/tela.png)
+### Sobre a pilha estática
