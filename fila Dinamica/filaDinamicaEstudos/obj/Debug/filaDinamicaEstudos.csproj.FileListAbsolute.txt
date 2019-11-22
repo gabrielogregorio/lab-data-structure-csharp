@@ -1,0 +1,7 @@
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\bin\Debug\filaDinamicaEstudos.exe.config
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\bin\Debug\filaDinamicaEstudos.exe
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\bin\Debug\filaDinamicaEstudos.pdb
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\obj\Debug\filaDinamicaEstudos.csprojAssemblyReference.cache
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\obj\Debug\filaDinamicaEstudos.csproj.CoreCompileInputs.cache
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\obj\Debug\filaDinamicaEstudos.exe
+H:\estudosEstruturaDeDados\filaDinamicaEstudos\filaDinamicaEstudos\obj\Debug\filaDinamicaEstudos.pdb
