@@ -1,0 +1,7 @@
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe.config
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.pdb
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csprojAssemblyReference.cache
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csproj.CoreCompileInputs.cache
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.exe
+H:\PastaOficial de Estudos em Estrutura de Dados\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.pdb
