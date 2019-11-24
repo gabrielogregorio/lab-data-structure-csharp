@@ -1,3 +1,5 @@
+> Os programas contém minhas próprias alterações.
+
 # Estrutura de dados - C#
 Vou compartilhar meus aprendizados em estrutura de dados aqui.
 
