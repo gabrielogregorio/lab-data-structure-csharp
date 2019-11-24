@@ -1,0 +1,7 @@
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe.config
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.pdb
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.csprojAssemblyReference.cache
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.csproj.CoreCompileInputs.cache
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.exe
+H:\PastaOficial de Estudos em Estrutura de Dados\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.pdb
